@@ -12,6 +12,10 @@ It provides basic functions to work with the filesystem like:
 > [!IMPORTANT]
 > It is intended to be used with JXA and built using [jxa-builder](https://github.com/SebastianPilarz/jxa-builder)
 
+```bash
+npm i jxa-filesystem
+```
+
 ```javascript
 const fs = Library("jxa-filesystem");
 ...
